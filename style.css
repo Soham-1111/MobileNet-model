@@ -1,0 +1,69 @@
+body{
+  background-color: aqua;  
+}
+
+.header_div{
+    background-color: white;
+    color:red;
+    font-size: 22px;
+    font-family: 'Abril Fatface', cursive;
+}
+.header_div img{
+    width:100px;
+}
+
+.main_div label{
+    font-family: 'Dancing Script', cursive;
+    width:400px;
+    font-size: 20px;
+    box-shadow:5px 5px 18px white;
+    
+}
+
+.divs{
+    width:400px;
+    height:350px;
+    border: 5px solid whitesmoke;
+    box-shadow:5px 5px 18px white;
+}
+
+.main_div button{
+    width:400px;
+    box-shadow:5px 5px 18px white;
+}
+
+.main_div{
+    font-size: 15px;
+    margin-top: 15px;
+    background-color: turquoise;
+    padding:10px;
+    border:5px solid white;
+}
+
+.result{
+    background-color: white;
+    box-shadow: 5px 5px 18px white;
+    color:navy;
+    padding:10px;
+    border-radius:10px;
+    width:50%;
+    font-family: 'Sacramento', cursive;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+.result img{
+width:70px;
+}
+.footer_div{
+    color:slategray;
+    background-color: white;
+    bottom: 0px;
+    position:fixed;
+    width: 100%;
+    text-align: center;
+    font-family: 'Bad Script', cursive;
+    line-height: 30px;
+    
+    
+
+}
